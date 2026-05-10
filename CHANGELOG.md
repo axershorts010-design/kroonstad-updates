@@ -13,10 +13,10 @@ All notable changes to the Kroonstad Discord server will be documented in this f
 
 ### Added
 **Fixed**
-Bugg Fix Cardealer
-Banken bug
-Bugg met  car radical menu 
-
+- Bugg Fix Cardealer
+- Banken bug
+- Bugg met  car radical menu 
+-
 
 
 - Launch of official Kroonstad Discord server updates log
