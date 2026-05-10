@@ -12,6 +12,13 @@ All notable changes to the Kroonstad Discord server will be documented in this f
 ## [1.0.0] - 2026-05-10
 
 ### Added
+**Fixed**
+Bugg Fix Cardealer
+Banken bug
+Bugg met  car radical menu 
+
+
+
 - Launch of official Kroonstad Discord server updates log
 - CHANGELOG.md for tracking all server changes
 - README.md for community overview
