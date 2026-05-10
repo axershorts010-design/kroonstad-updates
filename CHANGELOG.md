@@ -1,8 +1,4 @@
-# Changelog - Kroonstad Discord Server
 
-All notable changes to the Kroonstad Discord server will be documented in this file.
-
----
 
 # Wijzigingslogboek - Kroonstad Discord Server
 
